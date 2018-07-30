@@ -1,0 +1,19 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+/.idea
+*.iml
+/target
+*.bak
+*metastore_db*
+*.log
+*logs*
+*file*
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+.project
+.settings
+.classpath
+
