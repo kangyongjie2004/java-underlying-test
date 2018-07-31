@@ -1,4 +1,4 @@
-package com.jd.test.classloader;
+package com.jd.test.beans;
 
 /**
  * =========================================================

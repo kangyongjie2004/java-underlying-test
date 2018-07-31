@@ -1,4 +1,4 @@
-package com.jd.test.guice;
+package com.jd.test.spring;
 
 import com.google.inject.AbstractModule;
 

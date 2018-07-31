@@ -10,6 +10,7 @@
 	<modules>
 		<module>guice-test</module>
 		<module>java-classloader-di</module>
+		<module>java-underlying</module>
 	</modules>
 	<properties>
 		<jsf.version>1.5.5</jsf.version>

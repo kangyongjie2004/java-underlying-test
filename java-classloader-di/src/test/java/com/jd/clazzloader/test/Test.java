@@ -1,6 +1,6 @@
 package com.jd.clazzloader.test;
 
-import com.jd.test.classloader.ITest;
+import com.jd.test.beans.ITest;
 
 /**
  * =========================================================
