@@ -1,4 +1,4 @@
-package com.jd.test.underlying;
+package com.jd.test.underlying.atomic;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

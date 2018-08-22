@@ -15,6 +15,8 @@ public class DynamicProxy implements InvocationHandler {
     @Override
     public Object invoke(Object object, Method method, Object[] args)
             throws Throwable {
+
+        System.out.println("----"+object.getClass());
         //在代理真实对象前我们可以添加一些自己的操作
         System.out.println("before rent house");
 
